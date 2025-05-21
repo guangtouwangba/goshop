@@ -1,5 +1,7 @@
 # GoShop - Independent E-commerce Engine
 
+中文文档[./README.md]
+
 GoShop is an open-source e-commerce platform based on microservices architecture, developed in Go. This project aims to provide a comprehensive, flexible, and extensible e-commerce solution.
 
 ## Project Architecture
